@@ -10,7 +10,7 @@ Como esse é um curso introdutório, não é possível abarcar todas as ferramen
 
 ## Como usar o material
 
-O material das aulas está na pasta *Aulas*, e os conjuntos de dados utilizados ao longo de todo o curso estão na pasta *dataset*.
+O material das aulas está na pasta *Aulas*, e os conjuntos de dados utilizados ao longo de todo o curso estão na pasta *datasets*.
 
 Exceto pela Aula 1, as aulas costumam ter ao menos dois tipos de arquivos.
 
@@ -154,7 +154,7 @@ NUZZO, R. (2015) How scientists fool themselves. In: Nature, Out 2015. Acesso em
 
 OUSHIRO, L. (2017). Introdução à Estatística para Linguistas, v.1.0.1 (dez/2017). Disponível em DOI <http://rpubs.com/oushiro/iel>.
 
-xkcd. Significant. Disponível em < https://xkcd.com/882/>
+xkcd. Significant. Disponível em <https://xkcd.com/882/>
 
 WINTER, B. (2015) Linear models and linear mixed effects model in R with linguistics applications. Acesso em fevereiro de 2018 <http://www.bodowinter.com/tutorials.html>.
 
