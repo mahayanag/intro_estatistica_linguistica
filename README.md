@@ -152,15 +152,10 @@ HINTON, P. (2004) Statistics Explained, 2nd Edition, 2004.
 
 NUZZO, R. (2015) How scientists fool themselves. In: Nature, Out 2015. Acesso em fevereiro de 2018 <https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517>.
 
-OUSHIRO, L. (2017). Introdução à Estatística para Linguistas, v.1.0.1 (dez/2017). Disponível em DOI < http://rpubs.com/oushiro/iel>.
+OUSHIRO, L. (2017). Introdução à Estatística para Linguistas, v.1.0.1 (dez/2017). Disponível em DOI <http://rpubs.com/oushiro/iel>.
 
 xkcd. Significant. Disponível em < https://xkcd.com/882/>
 
 WINTER, B. (2015) Linear models and linear mixed effects model in R with linguistics applications. Acesso em fevereiro de 2018 <http://www.bodowinter.com/tutorials.html>.
 
-WINTER, B. (2011) The F distribution and the basic principle behind ANOVAs. Acesso em fevereiro de 2018 < http://www.bodowinter.com/tutorials.html >.
-
-
-
-
-w
+WINTER, B. (2011) The F distribution and the basic principle behind ANOVAs. Acesso em fevereiro de 2018 <http://www.bodowinter.com/tutorials.html>.
