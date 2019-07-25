@@ -1,6 +1,6 @@
 # APRESENTAÇÃO DO CURSO
 
-Este material foi preparado para acompanhar o curso *Análise e Visualização de Dados quantitativos em Linguística*, que costumo oferecer no Programa de Pós-graduação em Linguística da UFRN.
+Este material foi preparado para acompanhar o curso *Análise e Visualização de Dados quantitativos em Linguística*, que costumo oferecer no Programa de Pós-graduação em Estudos da Linguagem da UFRN.
 
 O curso é também uma introdução ao *R*, pensado para quem ainda não conhece a ferramenta.
 
