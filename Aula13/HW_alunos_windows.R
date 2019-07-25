@@ -1,0 +1,6 @@
+## Os dados de Godoy, Weissheimer e Mafra (submetido) que vimos em sala foram coletados para testar outra hipótese: a de que pronomes ambíguos seguindo sentenças com verbos no aspecto perfectivo, como em (1), teriam mais interpretação de alvo do que pronomes que seguissem eventos descritos com verbo no imperfectivo, como em (2).
+
+#Augusto passou a bola para Rubes. Ele...
+#Augusto estava passando a bola para Rubens. Ele...
+
+#Analise o conjunto de dados e escolha um teste estatístico para testar a hipótese dos autores. Não esqueça de fazer um gráfico para ver a distribuição dos dados.

@@ -1,0 +1,865 @@
+LISTA,participant,idade,cidade,genero,escolaridade,falantenativo,item,frase,resposta,pro_gender,verbtype,verbaspect,interpretation
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,estava endividada há muito tempo.,f,C3,imperfective,ambiguo
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Não lembrou a senha do banco,f,C3,imperfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,tinha esquecido de fazê-lo anteriormente e esperava que o atraso não tivesse prejudicado a amiga.,f,C3,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Tinha comprado uma blusa.,f,C3,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,conseguiu fazer a transação.,f,C3,imperfective,source
+1.1,MA,22,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,era boa pagadora.,f,C3,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,precisava pagá-la.,f,C3,imperfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,descobriu que o caixa automático estava com problemas,f,C3,imperfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,finalmente teve coragem de fazer isso.,m,C3,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,não respondeu,m,C3,imperfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,"esperava que Rafael tivesse mandado um modelo, mas na ausência disso fez seu melhor.",m,C3,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,Morria de saudades.,m,C3,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,escreveu que sentia saudade.,m,C3,imperfective,source
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,gostava de ser antiquado.,m,C3,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,esperava por uma resposta.,m,C3,imperfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,precisava de um novo baterista para a banda.,m,C3,imperfective,ambiguo
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,completou o passe e acertou a lixeira.,m,C2,perfective,goal
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Errou,m,C2,perfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,a dominou e chutou direto no angulo da janela que eles fingiam ser o gol.,m,C2,perfective,goal
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Se machucou.,m,C2,perfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,chutou de volta.,m,C2,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,parou a lata com o pé.,m,C2,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,derramou a tinta.,m,C2,perfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,"esperou que André fizesse alguma coisa, mas André ficou parado.",m,C2,perfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,precisava de uma resposta rápida.,f,C3,perfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,precisava de uma resposta,f,C3,perfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,esperava uma resposta a respeito da proposta do projeto que deveria ser submetido brevemente.,f,C3,perfective,ambiguo
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Desmarcou a reunião.,f,C3,perfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,recebeu.,f,C3,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,queria tirar uma dúvida.,f,C3,perfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,queria contar as novidades.,f,C3,perfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,não respondeu até agora.,f,C3,perfective,goal
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,sentiu dores na mão e pediu para parar o jogo.,m,C2,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,era bom nesse jogo,m,C2,imperfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,"errou por centímetros o alvo, vendo a peteca passar por ele e todos o encararem atônitos. Sempre fora um ótimo jogador de peteca.",m,C2,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,Se atrapalhou e caiu no chão.,m,C2,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,deixou cair,m,C2,imperfective,ambiguo
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,tentou alcançar.,m,C2,imperfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,queria ganhar o jogo.,m,C2,imperfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,fez o brinquedo prender na rede e ele quebrou quando tentaram tirar.,m,C2,imperfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,finalmente emprestou a peça para o amigo.,m,C1,perfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,prometeu que emprestaria,m,C1,perfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,a vestiu e agradeceu.,m,C1,perfective,goal
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,Havia derramado refrigerante na sua.,m,C1,perfective,goal
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,logo a vestiu,m,C1,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,se trocou ali mesmo.,m,C1,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,não tinha nenhuma roupa.,m,C1,perfective,goal
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,"tinha pedido uma com o número 67, mas aquela veio com 76.",m,C1,perfective,goal
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,caiu antes de completar o passe.,m,C2,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Estava aprendendo a jogar futebol,m,C2,imperfective,source
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,tinha visto toda a jogada quando foi interpelado por um carrinho violento de Luís.,m,C2,imperfective,ambiguo
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Pisou na bola e caiu.,m,C2,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,resolveu jogá-la.,m,C2,imperfective,ambiguo
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,viu uma chance de gol.,m,C2,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,acabara de fazer um gol.,m,C2,imperfective,ambiguo
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,"foi surpreendido pelo seu gato, que pulou na bola",m,C2,imperfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,era péssima de pontaria.,f,C2,perfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,não pegou,f,C2,perfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,observou enquanto a amiga preparava a própria cama.,f,C2,perfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,Acabou machucando a amiga.,f,C2,perfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,revidou,f,C2,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,deixou cair no chão.,f,C2,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,iniciou uma guerra de travesseiros.,f,C2,perfective,ambiguo
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,reparou que a amiga tinha um body pillow da sua waifu.,f,C2,perfective,ambiguo
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,pediu encarecidamente que o amigo devolvesse após usar.,m,C1,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,tinha esquecido a dele,m,C1,imperfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,tinha visto que o colega a tinha deixado cair e não percebera.,m,C1,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,", porém, a deixou cair no chão.",m,C1,imperfective,ambiguo
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,a deixou cair,m,C1,imperfective,ambiguo
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,deixou a tampa cair.,m,C1,imperfective,ambiguo
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,estava escrevendo um bilhete.,m,C1,imperfective,goal
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,não suspeitava que ela explodiria no meio da prova e sujaria todas as mesas por perto.,m,C1,imperfective,ambiguo
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,deixou o objeto cair no chão.,f,C2,perfective,goal
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,não conseguiu pegar,f,C2,perfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,"o pegou no ar, sorriu e colocou no canal de seu interesse.",f,C2,perfective,goal
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,Se esticou e conseguiu pega-lo antes que caísse no chão.,f,C2,perfective,goal
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,deixou o controle cair,f,C2,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,pegou e trocou a pilha.,f,C2,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,trocou de canal.,f,C2,perfective,goal
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,não conseguiu pegar e o controle quebrou em milhões de pedaços.,f,C2,perfective,goal
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,é um bom anfitrião.,m,C1,perfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,pediu por mais um pedaço,m,C1,perfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,queria saber a opinião do amigo sobre a nova receita.,m,C1,perfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Mesmo tinha feito ao saber que Caio iria visita-lo.,m,C1,perfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,comeu,m,C1,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,"provou um pedaço, mas estava sem fome",m,C1,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,havia envenenado a torta.,m,C1,perfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,queria que todos experimentassem a sua nova receita com biscoito champanhe.,m,C1,perfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,não queria que o envio demorasse.,m,C3,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,precisava que chegasse até segunda,m,C3,imperfective,ambiguo
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,trabalhava nos correios a mais de 20 anos. Não via a hora de se aposentar.,m,C3,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Se esqueceu de colocar o CEP.,m,C3,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,não aceitou,m,C3,imperfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,não lembrava o endereço de destino.,m,C3,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,esperava que a polícia não descobrisse.,m,C3,imperfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,tinha protegido bem a sanfona que estava enviando.,m,C3,imperfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,é muito atenciosa.,f,C1,perfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,pagou seu café da manhã,f,C1,perfective,ambiguo
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,sabia que a noiva não funcionava sem uma boa xícara de café logo ao acordar.,f,C1,perfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,Agradeceu.,f,C1,perfective,goal
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,bebeu,f,C1,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,agradeceu e tomou de um gole.,f,C1,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,estava dormindo.,f,C1,perfective,goal
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,ainda refletia sobre o romance de Agatha Christie.,f,C1,perfective,ambiguo
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,gostava de presentear as amigas.,f,C1,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,havia feito aniversário ontem,f,C1,imperfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,"odiava dar presentes, mas o decoro mandava.",f,C1,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,", porém, se esqueceu de tirar o preço.",f,C1,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,adorou,f,C1,imperfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,tentou comprar algo que agradasse a amiga.,f,C1,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,esperava que a amiga gostasse.,f,C1,imperfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,reparou que um carro do lado de fora tinha levado um piano para a casa.,f,C1,imperfective,ambiguo
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,ficou muito bravo com as informações que recebeu do amigo.,m,C3,perfective,goal
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,não respondeu na hora.,m,C3,perfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,"odiava ser pombo correio, mas era importante.",m,C3,perfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Ficou agradecido.,m,C3,perfective,goal
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,respondeu,m,C3,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,sentou num canto e chorou.,m,C3,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,era carteiro.,m,C3,perfective,source
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,entendeu tudo errado.,m,C3,perfective,goal
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,arquivou tudo com cuidado.,f,C3,perfective,goal
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,Não sabia direito o que fazer.,f,C3,perfective,ambiguo
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,esperava uma reposta o mais breve possível.,f,C3,perfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,Sempre faz suas tarefas dentro do prazo.,f,C3,perfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,leu,f,C3,perfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,o colocou em uma grande pilha na sua mesa.,f,C3,perfective,goal
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,estava cansada.,f,C3,perfective,ambiguo
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela...,era daquelas que não fazia nada em trabalho de grupo.,f,C3,perfective,leitura_alternativa
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,foi interrompida pela professora.,f,C1,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,não havia copiado a matéria,f,C1,imperfective,goal
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,já havia copiado o que precisava.,f,C1,imperfective,source
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Tinha perdido a matéria e precisava copiar.,f,C1,imperfective,goal
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,não leu,f,C1,imperfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,tinha anotado a matéria toda.,f,C1,imperfective,source
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,havia faltado as últimas aulas.,f,C1,imperfective,goal
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,tinha uma letra quase ilegível e isso não ajudou muito na situação.,f,C1,imperfective,source
+1.1,MC,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,não queria se levantar.,f,C2,imperfective,source
+1.1,JFF,21,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,não imaginava suas intenções,f,C2,imperfective,ambiguo
+1.1,BPLB,29,Salvador BA,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,estava mais perto do guarda roupas. Não lhe custou nada fazer o favor à amiga.,f,C2,imperfective,ambiguo
+1.1,NAME,28,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Tinha uma péssima pontaria.,f,C2,imperfective,source
+1.1,M C,22,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,colocou o chapeu na cabeça,f,C2,imperfective,goal
+1.1,MA,25,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,deixou cair no chão.,f,C2,imperfective,ambiguo
+1.1,S D,20,Porto Alegre,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,deixou o chapéu cair.,f,C2,imperfective,ambiguo
+1.1,G A T,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,tinha escondido as drogas na parte de dentro.,f,C2,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,tinha se esquecido de devolver antes,m,C1,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,Corou ao tocar o outro.,m,C1,imperfective,ambiguo
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,sabia que não era o dono.,m,C1,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,tinha esquecido de levar uma para fazer a prova.,m,C1,imperfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,havia pegado a caneta emprestado.,m,C1,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,A havia tomado emprestado,m,C1,imperfective,source
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,deixou cair,m,C1,imperfective,ambiguo
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,Já não precisava mais dela,m,C1,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,estava cansada daqueles jornais,f,C2,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,Sorriu satisfeita e trocou o canal.,f,C2,perfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,tinha outra intenção com o arremesso.,f,C2,perfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,não conseguiu segurar.,f,C2,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,era muito ignorante.,f,C2,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,Prontamente o pegou,f,C2,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,deixou cair no chão,f,C2,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,não conseguiu pegá-lo no ar,f,C2,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,quase tinha esquecido como fazer isso,m,C3,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,Chorava enquanto escrevia.,m,C3,imperfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,já sabia qual seria a resposta.,m,C3,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,esqueceu o endereço do amigo.,m,C3,imperfective,source
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,não sabia que hoje em dia ninguém mais envia cartas.,m,C3,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,Queria falar com ela,m,C3,imperfective,leitura_alternativa
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,queria namora-lo,m,C3,imperfective,source
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,tinha muito a dizer,m,C3,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,não tinha certeza se a amiga gostaria,f,C1,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,Estava muito nervosa.,f,C1,imperfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,sabia qual seria a reação.,f,C1,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,amou o presente.,f,C1,imperfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,não podia imaginar que ganharia um pokemón.,f,C1,imperfective,goal
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,Agradeceu,f,C1,imperfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,gastou muito dinheiro nele,f,C1,imperfective,source
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,Teve carinho ao escolher,f,C1,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,esperava que tudo estivesse bem,f,C3,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Não sabia outra maneira de se declarar,f,C3,perfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,não aguentava mais a espera.,f,C3,perfective,ambiguo
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,pediu desculpas pelo atraso das atividades.,f,C3,perfective,source
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,não sabia que ninguém mais envia e-mails.,f,C3,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Precisava de um arquivo importante,f,C3,perfective,source
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,disse que não recebeu,f,C3,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Quis saber mais sobre o trabalho,f,C3,perfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,sabia apenas que era importante,m,C3,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Não se lembrou do nome de quem havia ligado,m,C3,perfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,não gostou do que leu.,m,C3,perfective,goal
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,estava bastante preocupado.,m,C3,perfective,ambiguo
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,adora repassar mensagens de correntes de internet.,m,C3,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Recebeu,m,C3,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,entendeu,m,C3,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Precisava dessa informação,m,C3,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,tinha esquecido que o amigo era vegetariano,m,C1,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Cozinhara especialmente para Caio.,m,C1,perfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,adorava servir o seu companheiro.,m,C1,perfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,amou a sobremesa.,m,C1,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,adorava servir tortas.,m,C1,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Adorou o sabor,m,C1,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,comeu de bomgrado,m,C1,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Adorou,m,C1,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,não percebeu que a professora estava olhando,f,C1,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Sorria tímida,f,C1,imperfective,ambiguo
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,não sabia a quem pertencia.,f,C1,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,havia faltado algumas aulas.,f,C1,imperfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,não sabia do que se tratava.,f,C1,imperfective,goal
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Precisava copiar a matéria atrasada,f,C1,imperfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,queria anotar o dever de casa,f,C1,imperfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Precisava das atividades,f,C1,imperfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,a pegou para jogar fora,m,C2,perfective,goal
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Chutou a lata de volta,m,C2,perfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,não gostava de latas.,m,C2,perfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,não conseguiu pegar.,m,C2,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,é um grande chutador de latas.,m,C2,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Começou a fazer embaixadinhas,m,C2,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,pixou o muro,m,C2,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Começou a jogar futebol,m,C2,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,precisava de mais um para dormir bem,f,C2,perfective,goal
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,"Não queria o travesseiro, queria Ana.",f,C2,perfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,jogou errado.,f,C2,perfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,escondeu o travesseiro da irmã.,f,C2,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,é boa em jogar travesseiros.,f,C2,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,O pegou,f,C2,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,pegou ejogou de volta,f,C2,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,Ficou feliz,f,C2,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,não era muito bom nisso,m,C2,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,Não queria jogar peteca,m,C2,imperfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,lançava como ninguém.,m,C2,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,lançou errado.,m,C2,imperfective,source
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,curte um tapa na peteca.,m,C2,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,A pegou,m,C2,imperfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,escorregou e caiu,m,C2,imperfective,source
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,Gosta de jogar,m,C2,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,tinha esperanças de que desse certo,f,C3,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,Não queria que terminasse assim.,f,C3,perfective,ambiguo
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,não sabia o conteúdo.,f,C3,perfective,ambiguo
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,recebeu prontamente.,f,C3,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,encaminha ofícios como qualquer burocrata.,f,C3,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,O recebeu,f,C3,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,precisava dele urgentemente,f,C3,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,Não aguentava mais fazer tudo sozinha,f,C3,perfective,leitura_alternativa
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,errou e o chapéu foi parar longe,f,C2,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Tentou pegar direto com sua cabeça,f,C2,imperfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,jogava alegremente.,f,C2,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,conseguiu pegar o chapéu.,f,C2,imperfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,atira balas e chapéus.,f,C2,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Não conseguiu acertar,f,C2,imperfective,source
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,não percebeu o vento e não conseguiu pegar,f,C2,imperfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Perdeu a paciencia,f,C2,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,ficou muito feliz com o presente,m,C1,perfective,goal
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,Ja esperava há semanas.,m,C1,perfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,vestira escondido.,m,C1,perfective,goal
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,havia rasgado a que estava vestindo.,m,C1,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,traz camisas do paraguai.,m,C1,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,A vestiu,m,C1,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,vestiu edisse que não serviu,m,C1,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,A vestiu,m,C1,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,quase se esqueceu disso,f,C3,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Devia dois aluguéis passados.,f,C3,imperfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,tinha o dever de transferir.,f,C3,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,pagou tudo o que devia.,f,C3,imperfective,source
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,tinha saldo mas não tinha vontade.,f,C3,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Precisava pagar umas contas,f,C3,imperfective,disagreement
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,estava pagando a última parcela,f,C3,imperfective,source
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Precisava pagar umas contas,f,C3,imperfective,disagreement
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,não colocou açúcar,f,C1,perfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,Agradeceu com um sorriso,f,C1,perfective,goal
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,levava mais que um café.,f,C1,perfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,adorou a surpresa da amiga.,f,C1,perfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,leva cafés para pessoas que ama.,f,C1,perfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,O tomou,f,C1,perfective,goal
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,adorou a surpresa,f,C1,perfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,Detesta café e por isso demitiu Juliana,f,C1,perfective,goal
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,não teve nenhum domínio,m,C2,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Piscou e distraiu o colega.,m,C2,imperfective,ambiguo
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,disputava pouco aquela bola.,m,C2,imperfective,ambiguo
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,não conseguiu chutar de volta.,m,C2,imperfective,goal
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,pensou se a bola rola porque é redonda ou é redonda porque rola.,m,C2,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Estava se aquecendo,m,C2,imperfective,ambiguo
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,passou pelalateral para receber de volta,m,C2,imperfective,source
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Gosta de jogar com seu amigo,m,C2,imperfective,source
+1.2,Luana,30,Monte Mor,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,estava com a postagem atrasada,m,C3,imperfective,source
+1.2,C W,20,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Se perguntava que pacote estranho era Aquele,m,C3,imperfective,source
+1.2,B A S,20,"Indaiatuba, SP.",Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,despachava outras coisas também.,m,C3,imperfective,source
+1.2,MASP,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,não conseguiu despachar a tempo.,m,C3,imperfective,source
+1.2,VPM,30,Brasília,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,só não foi junto pq não cabia no pacote.,m,C3,imperfective,source
+1.2,CFTV,20,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Queria que chegasse rápido,m,C3,imperfective,ambiguo
+1.2,G R A S,24,BH,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,precisava da encomenda na mesma noite,m,C3,imperfective,goal
+1.2,MSMS,19,Belo Horizonte,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Vendia coisas pela internet,m,C3,imperfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,nem percebeu e a deixou cair.,m,C2,imperfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,deixou cair.,m,C2,imperfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,deixou cair.,m,C2,imperfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,olhou para cima,m,C2,imperfective,ambiguo
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,deixou cair a peteca.,m,C2,imperfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,Ele jogou com muito força e machucou Paulo,m,C2,imperfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,nunca pensou que Paulo fosse pega-la,m,C2,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo estava lançando a peteca para Paulo. Ele...,Não conseguia pegar,m,C2,imperfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,cumpre o que promete.,f,C3,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,perguntou o número da conta.,f,C3,imperfective,source
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,devia um café.,f,C3,imperfective,source
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,teve problemas com o caixa eletrônico,f,C3,imperfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,precisava quitar essa dívida antiga.,f,C3,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Ela queria comprar um tablet.,f,C3,imperfective,ambiguo
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,adora receber dinheiro,f,C3,imperfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica estava transferindo o dinheiro para Letícia. Ela..,Tinha dinheiro na conta,f,C3,imperfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,agradeceu.,m,C2,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,chutou de volta.,m,C2,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,não reagiu.,m,C2,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,se machucou,m,C2,perfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,devolveu a lata para Pedro com outro chute.,m,C2,perfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Ele errou o alvo.,m,C2,perfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,tinha conseguido a lata da cozinha de sua casa,m,C2,perfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro chutou a lata para André. Ele...,Chutou de volta,m,C2,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,estava esperando havia duas semanas.,f,C3,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,respondeu imediatamente.,f,C3,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,respondeu imediatamente.,f,C3,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,queria fazer perguntas sobre teatro,f,C3,perfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,finalmente tinha terminado o trabalho.,f,C3,perfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Ela não respondeu,f,C3,perfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,esperava esse email há meses,f,C3,perfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol enviou o email para Cláudia. Ela...,Perguntou sobre a prova,f,C3,perfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,não conseguiu pegar e deixou o controle cair no chão.,f,C2,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,deixou cair.,f,C2,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,deixou cair.,f,C2,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,pegou o controle,f,C2,perfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,o pegou no ar.,f,C2,perfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,Ela acertou o tigela de comida do cachorro.,f,C2,perfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,o agarrou e tacou de volta na cabeça de Bruna,f,C2,perfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna arremessou o controle remoto para Lílian. Ela...,Não conseguiu pegar e ele quebrou,f,C2,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,havia terminado de escrever.,m,C1,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,agradeceu por emprestar.,m,C1,imperfective,ambiguo
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,tinha pego emprestado para o exame.,m,C1,imperfective,source
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,queria uma caneta azul,m,C1,imperfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,foi chamado pela professora e deixou a caneta cair.,m,C1,imperfective,ambiguo
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,Ele a deixou cair,m,C1,imperfective,ambiguo
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,"precisava da caneta, mas deu para Júlio mesmo assim",m,C1,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul estava entregando a caneta para Júlio. Ele...,Precisava assinar o documento,m,C1,imperfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,estava ansioso pela entrega.,m,C3,imperfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,colocou o endereço de Samuel no topo da caixa.,m,C3,imperfective,source
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,esperava que fosse rápido.,m,C3,imperfective,ambiguo
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,estava com pressa,m,C3,imperfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,estava satisfeito por estar fazendo isso.,m,C3,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Ele esqueceu de atualizar as informações corretas no formulário,m,C3,imperfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,não pediu por aquilo,m,C3,imperfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério estava despachando a encomenda para Samuel. Ele...,Estava vestindo uma camiseta vermelha,m,C3,imperfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,ficou muito feliz.,m,C1,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,provou e não serviu.,m,C1,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,a vestiu na hora.,m,C1,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,estava louco para ver a camisa da cbf,m,C1,perfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,queria que Luís a vestisse imediatamente.,m,C1,perfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,Ele a tinha lavado na noite anterior,m,C1,perfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,"andou duas quadras, então cobrou frete",m,C1,perfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,g,João trouxe a camisa para Luís. Ele...,Adorou o presente,m,C1,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,"disse bem alto ""pensa rápido""!",f,C2,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,pegou no ar.,f,C2,imperfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,pediu que ela lhe jogasse.,f,C2,imperfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,olhou o chapéu cair,f,C2,imperfective,ambiguo
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,de repente se lembrou do que havia esquecido.,f,C2,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Ela queria testar seus reflexos,f,C2,imperfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,adorava ver o chapéu descer lentament equilibrado pelo vento,f,C2,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele estava atirando o chapéu para Roberta. Ela...,Pediu emprestado porque estava muito sol,f,C2,imperfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,estava doente.,f,C1,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,agradeceu.,f,C1,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,tinha convidado a amiga até sua casa.,f,C1,perfective,source
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,tomou o café,f,C1,perfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,sentou-se na mesa e começaram a conversar.,f,C1,perfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,Ela deixou cair o copo.,f,C1,perfective,disagreement
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,tomou o café e aagradeceu,f,C1,perfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana levou o café para Marina. Ela...,Estava muito cansada,f,C1,perfective,ambiguo
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,pediu desculpas pelo atraso.,f,C1,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,agradeceu.,f,C1,imperfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,fazia aniversário naquele dia.,f,C1,imperfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,estava ansiosa para ver a reação de márcia,f,C1,imperfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,estava feliz de poder deixar uma lembrança de aniversário para sua amiga.,f,C1,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,Ela não ganhou o que queria,f,C1,imperfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,"não sabia o que comprar, mas foi na fé",f,C1,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia estava dando o presente para Márcia. Ela...,Parecia estar muito feliz,f,C1,imperfective,ambiguo
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,estava marcado naquele momento.,m,C2,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,pegou e jogou para o Bruno.,m,C2,imperfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,era a laterial esquerda.,m,C2,imperfective,ambiguo
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,dibrou,m,C2,imperfective,ambiguo
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,foi interceptado por outro jogador.,m,C2,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Ele então decidiu tentar fazer um gol,m,C2,imperfective,ambiguo
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,adorava brincar com o amigo,m,C2,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,e,César estava rolando a bola para Ricardo. Ele...,Precisa praticar mais esse passe,m,C2,imperfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,havia esquecido de trazer o seu.,f,C2,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,pegou e colocou em cima da cama.,f,C2,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,pediu que ela fizesse isso.,f,C2,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,pegou o travesseiro,f,C2,perfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,pegou o travesseiro e se jogou na cama.,f,C2,perfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,Ela se esquivou e empurrou Ana,f,C2,perfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,precisava de algo fofo para dormir,f,C2,perfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana jogou o travesseiro para Flávia. Ela...,Não queria levantar da poltrona,f,C2,perfective,ambiguo
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,mesmo havia feito a torta.,m,C1,perfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,agradeceu.,m,C1,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,agradeceu.,m,C1,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,comeu,m,C1,perfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,estava com saudade da torta de sua mãe.,m,C1,perfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Ele não gostou do novo sabor,m,C1,perfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,agradeceu,m,C1,perfective,goal
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo serviu a torta para Caio. Ele...,Adorou e repetiu,m,C1,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,estava com saudades.,m,C3,imperfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,não lembrava o número da casa de Rafael.,m,C3,imperfective,source
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,tinha promeitdo que enviaria.,m,C3,imperfective,source
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,nunca havia escrito uma carta,m,C3,imperfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,estava feliz porque finalmente entraria em contato com Rafael novamente.,m,C3,imperfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,Ele esqueceu de colocar o selo,m,C3,imperfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,havia escrito um poema de amor,m,C3,imperfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge estava mandando a carta para Rafael. Ele...,Explicou o ocorrido para o amigo,m,C3,imperfective,source
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,agradeceu.,f,C3,perfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,perguntou porque Beatriz demorou tanto.,f,C3,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,recebeu e o arquivou.,f,C3,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,queria a resposta o mais rápido possível,f,C3,perfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,estava feliz por ter se livrado dele.,f,C3,perfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,Ela decidiu deixar o emprego depois,f,C3,perfective,source
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,não tinha capacidade de resolve-lo sozinha,f,C3,perfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz encaminhou o ofício para Laura. Ela..,Precisava do documento com urgência,f,C3,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,estava impaciente por uma resposta.,m,C3,perfective,source
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,por sua vez passou para Amanda.,m,C3,perfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,não entendeu.,m,C3,perfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,acredita em correntes,m,C3,perfective,source
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,queria que o romance desse certo.,m,C3,perfective,source
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Ele não respondeu o seu telefonema,m,C3,perfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,"tinha que ter feito isso há duas horas, mas esquecera",m,C3,perfective,source
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor repassou a mensagem para Diego. Ele...,Entendeu e disse que irá mudar o projeto,m,C3,perfective,goal
+1.3,ML,26,Limeira,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,havia faltado na aula passada.,f,C1,imperfective,goal
+1.3,MGG,23,Amparo,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,agradeceu.,f,C1,imperfective,goal
+1.3,DCL,28,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,precisava dele para estudar.,f,C1,imperfective,goal
+1.3,ngd,22,Campinas,Não Binário,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,havia perdido a matéria dada na aula anterior,f,C1,imperfective,goal
+1.3,MGMF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,estava com a matéria atrasada.,f,C1,imperfective,goal
+1.3,N.P.S.,20,Jundiaí,Não Binário,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Ela queria as respostas,f,C1,imperfective,goal
+1.3,T,20,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,derrubou o caderno no chão e ali ele ficou,f,C1,imperfective,ambiguo
+1.3,LP,30,Indaiatuba,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen estava passando o caderno para Sara. Ela...,Havia anotado toda a matéria,f,C1,imperfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,e André estava jogando futebol na rua.,m,C2,imperfective,leitura_alternativa
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,escorregou e ralou sua perna.,m,C2,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Chutou de volta.,m,C2,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,se preocupava em não acertá-lo.,m,C2,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,insistiu nesta ação por mais sete minutos e depois parou.,m,C2,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,queria jogar uma peladinha de lata na rua.,m,C2,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Machucou o pé,m,C2,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,chutou de volta,m,C2,imperfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,pegou o travesseiro e jogou de volta.,f,C2,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,não percebeu e o deixou cair no chão.,f,C2,imperfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Jogou de volta.,f,C2,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,o pegava e jogava de volta.,f,C2,imperfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,jogou o último com muita força e acabou acertando um vaso de vidro.,f,C2,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,é louca!,f,C2,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Errou a mira e quebrou o porta retrato,f,C2,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,jogou de volta,f,C2,imperfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,estava precisando das anotações de Karen para estudar.,f,C1,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,verificou a resolução de um exercício.,f,C1,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Começou a anotar.,f,C1,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,aceitou e agradeceu.,f,C1,perfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,queria que Sara escrevesse quais assuntos cairiam na prova de biologia.,f,C1,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,copiou a questão o mais rápido que pode.,f,C1,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Agradeceu,f,C1,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,precisava copiar a matéria,f,C1,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,sujou enquanto estava comendo e precisava de uma limpa para continuar trabalhando.,m,C1,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,"aceitou a ajuda do amigo, pois estava com muito frio.",m,C1,imperfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Vestiu a camisa assim que a recebeu.,m,C1,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,se perguntava para que ele a queria.,m,C1,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,queria que o irmão o ajudasse a dobrá-la.,m,C1,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,"experimentou, mas não serviu.",m,C1,imperfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Pegou a camisa e agradeceu,m,C1,imperfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,vestiu rapidamente.,m,C1,imperfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,estava devendo dinheiro de uma festa que foram juntas.,f,C3,perfective,source
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,ficou responsável por comprar os ingressos do show.,f,C3,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Sacou o dinheiro se sua conta.,f,C3,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,ficou aliviada em finalmente pagar sua dívida.,f,C3,perfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,devia 200 a Letícia fazia dois meses.,f,C3,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,transferiu um valor maior do que o que devia.,f,C3,perfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Conferiu a transferência,f,C3,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,precisava pagar a festa,f,C3,perfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,precisava saber se teria aula ou não no dia seguinte.,f,C3,imperfective,source
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,"então, percebeu que faltava anexar o documento.",f,C3,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Recusou-se a responder.,f,C3,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,escrevia apressada.,f,C3,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,pedia para que a amiga a encontrasse atrás da lanchonete da esquina.,f,C3,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,acabou enviando para o Claudio por engano.,f,C3,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Esperava por uma resposta o mais breve possível,f,C3,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,precisava dos slides da aula passada,f,C3,imperfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,quebrou o pé e não está saindo da cama.,f,C1,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,", então, tropeçou e derrubou o café em sua roupa.",f,C1,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Agradeceu pela bebida.,f,C1,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,esqueceu-se de por açúcar.,f,C1,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,tropeçou e deixou o prato e caneca cair.,f,C1,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,não sabia que Marina estava dormindo com outra menina.,f,C1,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Estava passando mau e necessitava de alimentar,f,C1,imperfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,precisava agradar a chefe,f,C1,imperfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,"fez isso à pedido de Júlia, amiga de Rafael.",m,C3,perfective,source
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,prometeu revisar o conteúdo o mais rápido possível.,m,C3,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Ficou muito feliz com o texto que recebu do amigo.,m,C3,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,escreveu nela tudo que sentia.,m,C3,perfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,pedia desculpas pela briga de ontem.,m,C3,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,precisa declarar o seu amor.,m,C3,perfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Solicitou que fosse via Sedex para agilizar o processo,m,C3,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,pediu desculpas,m,C3,perfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,precisava do ofício para continuar a contratação da nova estagiária.,f,C3,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,"então, se deu conta de que não havia autenticado o documento no cartório.",f,C3,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Respondeu assim que o recebeu.,f,C3,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,enviou cópias para todos os outros funcionários também.,f,C3,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,pedia que o assinasse o mais rápido possível.,f,C3,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,estava atrasada três dias.,f,C3,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Esqueceu de colocar destinatário,f,C3,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,estava atendendo ordens de sua chefe.,f,C3,imperfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,"recebeu, ajeitou e fez um golaço.",m,C2,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,estava distraído e perdeu o lance.,m,C2,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,chutou para o l,m,C2,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,a chutou para longe,m,C2,perfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,acabou tropeçando e todos riram.,m,C2,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,deixou passar por debaixo das pernas.,m,C2,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Chutou e acertou o gol,m,C2,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,chutou de volta,m,C2,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,"está sem celular, pois o dele quebrou quando caiu no chão ontem na escola.",m,C3,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,achava importante esclarecer alguns fatos para o seu chefe.,m,C3,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Respondeu assim que possível.,m,C3,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,imaginava qual seria a resposta que receberia.,m,C3,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,avisava da reunião amanhã que seria no anfiteatro.,m,C3,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,não entendia o que estava dizendo.,m,C3,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Aguardava por uma resposta,m,C3,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,precisava de uma informação,m,C3,imperfective,ambiguo
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,deixou o chapéu cair no chão e ele ficou todo sujo.,f,C2,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,", distraída, o deixou cair na piscina.",f,C2,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Vestiu o adereço imediatamente.,f,C2,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o pegou e guardou no armário.,f,C2,perfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,", então, atirou-o de volta.",f,C2,perfective,goal
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,teve que se abaixar para pegar o chapéu do chão.,f,C2,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Pegou e colocou ele na cabeça,f,C2,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,ficava muito bonita de chapéu,f,C2,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,tinha esquecido o estojo em casa e precisava anotar a aula.,m,C1,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,"agradeceu, mas disse que não era sua.",m,C1,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Agradeceu o amigo.,m,C1,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,se conformou que nunca a teria de volta.,m,C1,perfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,pedia que o amigo desenhasse uma flor no guardanapo.,m,C1,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,nem lembrava mais que havia lhe emprestado.,m,C1,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Guardou a,m,C1,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,precisava assinar um documento,m,C1,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,não conseguiu pegar e o controle caiu no chão.,f,C2,imperfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,"pegou o objeto ""de primeira"".",f,C2,imperfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Xingou a amiga pela falta de bom senso.,f,C2,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,se esforçava para não errar a mira.,f,C2,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,deixou o objeto cair e pediu desculpas logo depois.,f,C2,imperfective,goal
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,não deveria fazer essas coisas.,f,C2,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Não mais queria mudar de canal,f,C2,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,não conseguiu pegar e o controle bateu no seu rosto.,f,C2,imperfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,precisava da encomenda o quanto antes.,m,C3,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,espera que o produto chegue em até 3 dias úteis.,m,C3,perfective,ambiguo
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Recebeu rapidamente.,m,C3,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,enviou um sms avisando.,m,C3,perfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,se sentiu cansado depois de todo este trabalho.,m,C3,perfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,esperava ansioso há meses.,m,C3,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Mandou o aviso de cobrança do frete,m,C3,perfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,havia comprado uma manete nova,m,C3,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,tinha feito pela primeira vez e queria que sei amigo experimentasse.,m,C1,imperfective,source
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,", então, percebeu que o amigo tinha intolerância à lactose.",m,C1,imperfective,source
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Agradeceu pela gentileza.,m,C1,imperfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,escolheu o maior pedaço para o amigo.,m,C1,imperfective,source
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,"deixou alguns farelos cair, mas o pedaço ainda estava intacto.",m,C1,imperfective,source
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,nem perguntou ao rapaz se queria comer.,m,C1,imperfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Deixou a torta cair no chão,m,C1,imperfective,source
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,estava gostando de praticar culinária,m,C1,imperfective,source
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,"gostou muito, mas a blusa ficou pequena e ela teve que trocar.",f,C1,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,"pareceu desapontada, mas evitou demonstrar à mãe.",f,C1,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Agradeceu pelo presente.,f,C1,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,agradeceu e o guardou para abrí-lo depois.,f,C1,perfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,odiou o que tinha no embrulho: meias amarelas.,f,C1,perfective,goal
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,comprou um colar super fashion.,f,C1,perfective,source
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Ficou muito grata,f,C1,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,agradeceu,f,C1,perfective,goal
+2.1,RMGL,23,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,conseguiu pegá-la e eles seguiram jogando.,m,C2,perfective,goal
+2.1,LGP,24,Ribeirão Preto,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,estava esperto e não deixou a peteca cair.,m,C2,perfective,goal
+2.1,MSS,22,Sao Paulo,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Jogou o brinquedo novamente.,m,C2,perfective,goal
+2.1,INC,28,Salvador,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,não a rebateu e perdeu o jogo.,m,C2,perfective,goal
+2.1,LMSA,25,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,", então, deixou ela cair.",m,C2,perfective,goal
+2.1,BFJ,30,BH,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,"tentou pegá-la no ar, mas acabou caindo de bunda.",m,C2,perfective,goal
+2.1,PBS1,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Rebateu a peteca,m,C2,perfective,goal
+2.1,ACBO,22,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,ele devolveu,m,C2,perfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,assinou e a devolveu.,m,C1,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,agradeceu e assinou o documento.,m,C1,perfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,sabia que aquela caneta não o pertencia.,m,C1,perfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,queria ajudar.,m,C1,perfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Agradesceu,m,C1,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Havia perdido a sua,m,C1,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,pegou e começou a escrever.,m,C1,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,tinha várias canetas.,m,C1,perfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,não compreendeu e pediu que repetisse.,m,C3,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,repetia em voz baixa tudo o que lia no celular.,m,C3,imperfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,ja imaginava o que aconteceria a seguir.,m,C3,imperfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,contou tudo para o amigo,m,C3,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Não deu atenção,m,C3,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Não sabia o que era pra fazer,m,C3,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,não estava prestando atenção.,m,C3,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,gosta muito de contar as coisas.,m,C3,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,a vestiu e caiu-lhe bem.,m,C1,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,queria que Luís a usasse naquele dia tão especial.,m,C1,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,queria a camisa azul.,m,C1,imperfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,tinha esquecido suas roupas em casa,m,C1,imperfective,goal
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Havia sujado a sua de sorvete,m,C1,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Não tinha nenhuma para trocar,m,C1,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,agradeceu a ajuda.,m,C1,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,gostava muito do seu melhor amigo.,m,C1,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,fez questão de embalar muito bem.,m,C3,perfective,source
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,não queria encontrar com Samuel pessoalmente.,m,C3,perfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,nao sabia o que havia dentro da caixa.,m,C3,perfective,ambiguo
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,esperou ansiosamente pela chegado do pacote,m,C3,perfective,goal
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Ficou grato,m,C3,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Não havia dado o endereço certo,m,C3,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,teve que ir no Correios buscar.,m,C3,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,havia bisbilhotado a encomenda.,m,C3,perfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,não aguentava mais nenhum pedaço.,m,C1,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,a deixou cair no chão.,m,C1,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,adorava torta de maçã.,m,C1,imperfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,cortou um pedaço bem grande,m,C1,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Estava ansioso pelo pedaço,m,C1,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Não queria um pedaço muito grande,m,C1,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,se deliciou com o sabor.,m,C1,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,serviu um pedaço para si também.,m,C1,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o pegou sem maiores problemas.,f,C2,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o pegou e colocou na cabeça.,f,C2,perfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,agarrou o objeto no ar.,f,C2,perfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,estava brincando,f,C2,perfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Não conseguiu pegar,f,C2,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Não conseguiu pegar,f,C2,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,não conseguiu pegar.,f,C2,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o agarrou com precisão.,f,C2,perfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,devolveu a Pedro.,m,C2,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,estava descalço e cortou o pé.,m,C2,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,queria muito realizar seu sonho.,m,C2,imperfective,ambiguo
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,estava com raiva,m,C2,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Não estava com vontade de brincar,m,C2,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Não conseguiu pegar,m,C2,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,chutou de volta.,m,C2,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,quase machucou o pé.,m,C2,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,agradeceu o gesto.,f,C1,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,queria levá-lo antes de Marina acordar.,f,C1,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,nao poderia imaginar o sabor daquele café delicioso.,f,C1,imperfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,quis fazer um agrado,f,C1,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Estava adoentada,f,C1,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Tropeçou,f,C1,imperfective,source
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,ainda não tinha se recuperado de uma grave doença.,f,C1,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,fazia isso todos os dias.,f,C1,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,o sacou assim que possível.,f,C3,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,pediu desculpa à amiga pelo atraso.,f,C3,perfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,ja sabia como gastaria cada centavo.,f,C3,perfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,estava devendo dinheiro que tinha pegado emprestado,f,C3,perfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Comprou as passagens para viajarem,f,C3,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Estava precisando muito,f,C3,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,agradeceu pela colaboração.,f,C3,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,tinha muito dinheiro.,f,C3,perfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,a deixou cair.,m,C2,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,tropeçou numa pedra a não conseguiu alcançá-la.,m,C2,perfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,adorava esse jogo.,m,C2,perfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,lançou-a longe demais,m,C2,perfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Pegou antes que caísse no chão,m,C2,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Não conseguiu pegar,m,C2,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,devolveu e pontuou.,m,C2,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,rebateu.,m,C2,perfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,o pegou no ar com maestria.,f,C2,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,não queria levantar para levar o objeto até a irmã.,f,C2,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,queria que a televisão fosse ligada.,f,C2,imperfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,não tinha noção do preço de um controle remoto,f,C2,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Cansou de ver tv,f,C2,imperfective,source
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Conseguiu pegar,f,C2,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,se distraiu e o controle caiu no chão.,f,C2,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,deixou o controle cair.,f,C2,imperfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,perguntou se haveria aula ou não naquele dia.,f,C3,imperfective,source
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,enviou a mensagem para o remetente errado.,f,C3,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,queria resolver aquilo logo.,f,C3,imperfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,queria marcar um reunião,f,C3,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Sempre responde seus emails,f,C3,imperfective,source
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Enviou o e-mail,f,C3,imperfective,source
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,teve problemas com o servidor de entrada.,f,C3,imperfective,source
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,odiava falar ao celular.,f,C3,imperfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,ficou surpreendida.,f,C1,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,ficou se surpreendeu com o que ganhou.,f,C1,perfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,queria muito um novo amor.,f,C1,perfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,gostou muito do presente,f,C1,perfective,goal
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Ficou muito feliz,f,C1,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Amou,f,C1,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,ficou feliz com a lembranca,f,C1,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,amou a lembrança.,f,C1,perfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,foi atingida em cheio no rosto.,f,C2,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,queria deixá-lo secando no sol.,f,C2,imperfective,ambiguo
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,queria apenas dormir.,f,C2,imperfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,estava querendo brincar,f,C2,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Estava com sono,f,C2,imperfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Conseguiu pegar,f,C2,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,pegou e se acomodou na cama.,f,C2,imperfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,gostava dessa brincadeira.,f,C2,imperfective,ambiguo
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,esperava que o parceiro do time avançasse ao gol.,m,C2,perfective,source
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,estava livre na frente do gol.,m,C2,perfective,goal
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,sempre foi o artilheiro do time.,m,C2,perfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,tem um ótimo passe,m,C2,perfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Marcou o gol,m,C2,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Não era bom de bola,m,C2,perfective,ambiguo
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,dominou a bola e passou para Marcos.,m,C2,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,gostava do companheirismo do futebol.,m,C2,perfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,perguntou por escrito onde almoçariam logo mais.,f,C1,perfective,source
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,pediu que Sara o entregasse à professora.,f,C1,perfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,precisava daquela matéria.,f,C1,perfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,estava com dúvidas na matéria,f,C1,perfective,goal
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Agradeceu,f,C1,perfective,goal
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Estudou a matéria,f,C1,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,copiou a matéria que precisava e devolveu no outro dia.,f,C1,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,deixou o caderno cair no chão.,f,C1,perfective,goal
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,a recebeu semanas depois.,m,C3,perfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,sempre gostou de escrever cartas.,m,C3,perfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,não ousou abri-la.,m,C3,perfective,goal
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,respondeu rapidamente,m,C3,perfective,goal
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Disse sentir sua falta,m,C3,perfective,source
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Respondeu,m,C3,perfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,só recebeu duas semanas depois.,m,C3,perfective,goal
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,amava escrever cartas.,m,C3,perfective,source
+2.2,GAP,27,Piracicaba,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,o aguardava desde ontem.,f,C3,imperfective,goal
+2.2,GTC,29,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,queria terminar logo o trabalho.,f,C3,imperfective,source
+2.2,JRFS,24,Campinas,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,sabia muito bem o que estava fazendo.,f,C3,imperfective,source
+2.2,GRF,22,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,queria uma segunda opinião sobre a redação do documento,f,C3,imperfective,source
+2.2,M A,30,Salvador,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Cumpre seus prazos,f,C3,imperfective,source
+2.2,FMdM,25,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Recebeu,f,C3,imperfective,goal
+2.2,PBS,24,Curitiba,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,digitalizou todos os documentos necessários para envio.,f,C3,imperfective,source
+2.2,WA,20,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,não aguentava mais fazer isso.,f,C3,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,gostava de costurar.,m,C1,imperfective,ambiguo
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,estava jogando no computador.,m,C1,imperfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,tomou cuidado para não amassá-la.,m,C1,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Não gostou.,m,C1,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,a havia costurado na noite anterior.,m,C1,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Ja tinha passado,m,C1,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,tinha pedido esse favor.,m,C1,imperfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,g,João estava trazendo a camisa para Luís. Ele...,Tinha pegado a camisa emprestado.,m,C1,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,precisava copiar a matéria perdida.,f,C1,perfective,goal
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,queria checar o conteúdo da aula que havia perdido.,f,C1,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,começou a copiar as notas da amiga.,f,C1,perfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Copiou toda a matéria.,f,C1,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,já tinha copiado o que queria.,f,C1,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Copia a matéria toda,f,C1,perfective,ambiguo
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,tinha um recado a escrever.,f,C1,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,j,Karen passou o caderno para Sara. Ela...,Estava precisando fazer anotações.,f,C1,perfective,goal
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,estava ansioso parar come-la.,m,C1,imperfective,goal
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,era um bom anfitrião,m,C1,imperfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,cozinha muito bem.,m,C1,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Adorou.,m,C1,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,escolheu o pedaço com mais morangos para o amigo.,m,C1,imperfective,ambiguo
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Cortou um pedaço muito grande,m,C1,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,adorava aquele sabor.,m,C1,imperfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,q,Rodrigo estava servindo a torta para Caio. Ele...,Amava doces.,m,C1,imperfective,goal
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,errou e jogou-a dentro de uma boca de lobo.,m,C2,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,queria jogar.,m,C2,imperfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,deu um pontapé nela.,m,C2,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Machucou o dedo.,m,C2,imperfective,source
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,parecia querer acertar o colega em cheio.,m,C2,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Queria jogar bola,m,C2,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,estava entediado.,m,C2,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,o,Pedro estava chutando a lata para André. Ele...,Era muito bom nisso.,m,C2,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,"atingiu o abajur, o que encerrou a brincadeira.",f,C2,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,não precisava de tantos.,f,C2,imperfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,o pegava com destreza.,f,C2,imperfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Não segurou.,f,C2,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,ainda tinha de procurar a fronha.,f,C2,imperfective,ambiguo
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Precisava arrumar a cama para dormir,f,C2,imperfective,goal
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,estava se divertindo.,f,C2,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,a,Ana estava jogando o travesseiro para Flávia. Ela...,Não precisava de dois para dormir.,f,C2,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,dominou e partiu na direção do gol.,m,C2,perfective,goal
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,chutou para Tiago.,m,C2,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,logo a recebeu e marcou um golaço.,m,C2,perfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Chutou para o gol.,m,C2,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,achou que o colega de time tinha mais chances de marcar o gol.,m,C2,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Queria jogar futebol,m,C2,perfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,"adorava esse jogo.",m,C2,perfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,e,César rolou a bola para Ricardo. Ele...,Queria jogar futebol.,m,C2,perfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,precisava falar com o amigo.,m,C3,perfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,queria pedir desculpas.,m,C3,perfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,a recebeu com carinho.,m,C3,perfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Respondeu.,m,C3,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,havia pingado algumas gotas de seu perfume predileto no envelope.,m,C3,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Precisava de ajuda,m,C3,perfective,ambiguo
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,"queria conversar.",m,C3,perfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,h,Jorge mandou a carta para Rafael. Ele...,Precisava confessar certas coisas.,m,C3,perfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,precisava da resposta o mais rápido possível.,f,C3,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,já estava cobrando o documento.,f,C3,imperfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,era uma secretária e essa era uma de suas tarefas.,f,C3,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Recebeu.,f,C3,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,"pediu urgência à assistente, pois o documento era muito importante.",f,C3,imperfective,ambiguo
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Havia terminado,f,C3,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,tinha mais coisas a fazer.,f,C3,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,b,Beatriz estava encaminhando o ofício para Laura. Ela...,Não conseguia mais ser produtiva.,f,C3,imperfective,leitura_alternativa
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,esperava que ela chegasse intacta.,m,C3,perfective,ambiguo
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,estava ansioso para receber o presente do amigo.,m,C3,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,o fez rapidamente.,m,C3,perfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Recebeu.,m,C3,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,esperava que o pacote chegasse antes do fim de semana a seu destino.,m,C3,perfective,ambiguo
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,Trabalhava nos correios,m,C3,perfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,havia pedido fazia tempo.,m,C3,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,r,Rogério despachou a encomenda para Samuel. Ele...,precisava recebê-la com urgência,m,C3,perfective,goal
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,queria lhe fazer uma surpresa.,f,C1,perfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,"não gostou, mas fingiu que tinha adorado para não chatear a amiga.",f,C1,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,gostava muito da amiga.,f,C1,perfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Adorou.,f,C1,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,torceu para que a amiga não tivesse aquele livro.,f,C1,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,Finalmente se lembrou,f,C1,perfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,adorou.,f,C1,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,k,Lúcia deu o presente para Márcia. Ela...,"Agradeceu, feliz.",f,C1,perfective,goal
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,"errou a atingiu a janela, quebrando o vidro.",f,C2,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,estava com preguiça de levantar e entregá-lo em mãos.,f,C2,imperfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,errou a mira.,f,C2,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Não o agarrou.,f,C2,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,"não nunca teve boa mira, então desistiu de tentar acertar a irmã.",f,C2,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Não lembrava quais eram os canais,f,C2,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,acertou a cabeça da amiga.,f,C2,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,c,Bruna estava arremessando o controle remoto para Lílian. Ela...,Estava com preguiça de levantar.,f,C2,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,preencheu o cheque e a devolveu.,m,C1,perfective,goal
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,precisava assinar a lista de chamada.,m,C1,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,ajudou o amigo antes da prova do ENEM.,m,C1,perfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Guardou na bolsa.,m,C1,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,jamais imaginara que o objeto pudesse ser tão importante para o amigo.,m,C1,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Estava cansado de escrever,m,C1,perfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,precisava assinar a lista.,m,C1,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,p,Raul entregou a caneta para Júlio. Ele...,Não ligava de emprestar seus materiais.,m,C1,perfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,tropeçou e deixou-o cair sobre o tapete.,f,C1,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,estava doente.,f,C1,imperfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,infelizmente tropeçou e derrubou tudo no chão.,f,C1,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Derrubou no chão.,f,C1,imperfective,source
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,"havia preparado torradas, além disso.",f,C1,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Comprou dois sem querer,f,C1,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,estava doente.,f,C1,imperfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,i,Juliana estava levando o café para Marina. Ela...,Estava muito cansada.,f,C1,imperfective,ambiguo
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,finalmente estava pagando sua dívida.,f,C3,perfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,estava devendo 50 reais.,f,C3,perfective,source
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,estava devendo horrores à amiga.,f,C3,perfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Agradeceu.,f,C3,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,"tinha decidido acrescentar 10% ao valor, pelo incômodo que causara.",f,C3,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Finalmente recebeu o pagamento,f,C3,perfective,goal
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,estava endividada.,f,C3,perfective,ambiguo
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,n,Mônica transferiu o dinheiro para Letícia. Ela...,Estava lhe devendo oitenta reais.,f,C3,perfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,não tinha muita certeza sobre o que ela significava.,m,C3,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,estava sem celular.,m,C3,imperfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,gostava de brincar de telefone sem fio.,m,C3,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Recebeu.,m,C3,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,"esperou até que aparecesse o sinal de ""visualizada"", para então desligar o celular de vez.",m,C3,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Ouviu que o professor não daria aula,m,C3,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,precisava contar uma coisa.,m,C3,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,f,Heitor estava repassando a mensagem para Diego. Ele...,Precisava ajudar o amigo.,m,C3,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,"esperava ter uma resposta o quanto antes, mas sabia que poderia demorar.",f,C3,imperfective,source
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,precisava de alguns documentos.,f,C3,imperfective,ambiguo
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,cumpriu o combinado.,f,C3,imperfective,source
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Recebeu.,f,C3,imperfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,"hesitou por um instante antes de clicar em ""enviar"".",f,C3,imperfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Precisava imprimir um trabalho,f,C3,imperfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,precisava de ajuda.,f,C3,imperfective,source
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,d,Carol estava enviando o email para Cláudia. Ela...,Precisava de uma resposta rápida.,f,C3,imperfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,não gostava muito de jogar peteca.,m,C2,perfective,ambiguo
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,não conseguiu pegá-la.,m,C2,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,a pegou com destreza.,m,C2,perfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Não conseguiu pegar.,m,C2,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,esperava que o irmão fosse capaz de jogá-la de volta.,m,C2,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Jogava muito bem,m,C2,perfective,source
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,a pegou rapidamente.,m,C2,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,l,Marcelo lançou a peteca para Paulo. Ele...,Lançou-a sem querer em sua cabeça.,m,C2,perfective,source
+2.3,FFB,29,Anápolis - GO,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o pegou no ar e colocou na cabeça.,f,C2,perfective,goal
+2.3,LA1,21,Campinas - SP,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,pegou assustada.,f,C2,perfective,goal
+2.3,BS,27,Campinas,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,o pegou pela aba.,f,C2,perfective,goal
+2.3,L F S N,26,Rio de Janeiro,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Agarrou.,f,C2,perfective,goal
+2.3,M,30,São Paulo,Masculino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,odiava aquela cor e pediu que a amiga levasse o objeto para bem longe dali.,f,C2,perfective,source
+2.3,ILPP,19,Rio de Janeiro,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Estava com calor,f,C2,perfective,goal
+2.3,LA,23,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,conseguiu pegar.,f,C2,perfective,goal
+2.3,Ca,19,Belo Horizonte,Feminino,Ensino Superior completo ou cursando,Sim,m,Michele atirou o chapéu para Roberta. Ela...,Ficava linda nele.,f,C2,perfective,goal
