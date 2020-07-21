@@ -2,7 +2,7 @@
 
 Este material foi preparado para acompanhar o curso *Análise e Visualização de Dados quantitativos em Linguística*, que costumo oferecer no Programa de Pós-graduação em Estudos da Linguagem da UFRN.
 
-O curso é também uma introdução ao *R*, pensado para quem ainda não conhece a ferramenta.
+O curso também é uma introdução ao *R*, pensado para quem ainda não conhece a ferramenta.
 
 Muitas das aulas fazem uso de conjuntos de dados provenientes de outros cursos que estão gratuitamente disponíveis na internet. Todos esses cursos estão linkados nos slides. Caso decida usar algum dos conjuntos de dados disponibilizados aqui, lembre-se de citar a fonte original!
 
